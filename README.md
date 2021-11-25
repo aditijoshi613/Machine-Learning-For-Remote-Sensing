@@ -1,5 +1,5 @@
 # Machine-Learning-For-Remote-Sensing
-In-class Kaggle Competition
+In-class Kaggle Competition- GNR-638 ML4RS II (2020)
 
 https://www.kaggle.com/c/gnr-638/overview
 
